@@ -14,4 +14,4 @@ class Medicine {
     required this.icon,
     required this.treatmentId,
   });
-}
+}                                           
