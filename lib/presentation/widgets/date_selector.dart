@@ -40,7 +40,7 @@ class _DateSelectorState extends State<DateSelector> {
             CalendarFormat.week: 'Week',
           },
 
-          // Remove bottom "selected date" area
+          
           daysOfWeekVisible: true,
 
           calendarStyle: CalendarStyle(
